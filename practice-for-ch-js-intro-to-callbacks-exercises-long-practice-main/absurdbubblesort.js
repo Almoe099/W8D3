@@ -38,3 +38,5 @@ absurdBubbleSort([ 3, 2, 1 ], function (arr) {
   console.log("Sorted array: " + JSON.stringify(arr));
   rl.close();
 });
+
+// i did something
